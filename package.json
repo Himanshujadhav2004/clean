@@ -1,0 +1,11 @@
+{
+  "name": "cleanrail-payroll",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "contracts:test": "npm --prefix contracts test",
+    "contracts:deploy": "npm --prefix contracts run deploy:monad",
+    "backend": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend run dev"
+  }
+}
