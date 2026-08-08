@@ -1,0 +1,9 @@
+{
+  "chainId": 10143,
+  "chain": "monad",
+  "cva": "0xaC0893567D43C3E7e6e35a72803df05416C1f20D",
+  "vault": "0xf4bcFfBF82D2Ed620B42B14f350976F85cd09Ed7",
+  "payrollRun": "0xfff653B65EC5517af15D416f9336B604FF3458Aa",
+  "recordKeeper": "0x637B46963Bfe47FE576D007C138EDaDBD8e766E7",
+  "deployedAt": "2026-08-08T10:43:53.678Z"
+}
